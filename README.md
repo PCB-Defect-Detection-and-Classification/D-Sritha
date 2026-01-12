@@ -8,7 +8,6 @@ An end-to-end deep learning system for automated PCB defect detection achieving 
 
 - [Features](#-features)
 - [System Architecture](#-system-architecture)
-- [Demo](#-demo)
 - [Installation](#-installation)
 - [Quick Start](#-quick-start)
 - [Usage Guide](#-usage-guide)
@@ -84,21 +83,6 @@ An end-to-end deep learning system for automated PCB defect detection achieving 
 
 ---
 
-##  Demo
-
-### Web Interface
-![UI Dashboard](docs/images/ui_dashboard.png)
-*Interactive Streamlit interface with real-time processing*
-
-### Detection Results
-![Detection Example](docs/images/detection_example.png)
-*Automated defect localization with confidence scores*
-
-### Performance Analytics
-![Analytics Dashboard](docs/images/analytics_dashboard.png)
-*Historical metrics and system optimization tracking*
-
----
 
 ##  Installation
 
